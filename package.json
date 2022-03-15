@@ -1,0 +1,22 @@
+{
+  "name": "webscreenshot",
+  "version": "1.0.0",
+  "description": "web screenshot and some",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akproxy1/My-Web-Screenshot.git"
+  },
+  "author": "Akeem Adeoti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akproxy1/My-Web-Screenshot/issues"
+  },
+  "homepage": "https://github.com/akproxy1/My-Web-Screenshot#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
+}
